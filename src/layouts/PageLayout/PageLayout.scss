@@ -1,0 +1,34 @@
+header {
+  background-color: #2980b9;
+} 
+
+.navbar-brand{
+  color: #ffffff !important;
+}
+.nav-link{
+  color: #ffffff !important;
+}
+
+.nav-link:hover{
+  text-decoration: underline;
+}
+
+
+.page-layout__viewport {
+  padding-top: 4rem
+}
+
+
+.page-layout__nav-item--active {
+  font-weight: bold ;
+  text-decoration: underline
+}
+
+.navbar-collapse{
+  flex-basis: 100%;
+  
+  
+}
+.navbar-toggler{
+   background-color: #ffffff;
+}
